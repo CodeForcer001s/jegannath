@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jegannath</h1>
 <h3 align="center">Full Stack Developer Exploring the Depths of Cybersecurity, OS Programming, and AI/ML with a Drive for Innovation and Learning"</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
-- 🔭 I’m currently working on **creating my own operating system**
+- 🔭 I’m currently working on **Creating my Own Operating System**
 
-- 🌱 I’m currently learning **Full Stack, DevOPS and CyberSecurity**
+- 🌱 I’m currently learning **Full Stack**
 
 - 💬 Ask me about **MERN**
 
